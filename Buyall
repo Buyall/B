@@ -1,0 +1,1 @@
+<buyairtime><amount>number select service provider=<checkout>=payment status<if no money in account>=<not enough fund> {if money in account}=<pending> if payment complete=<success>
